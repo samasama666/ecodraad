@@ -27,12 +27,13 @@ body {
     margin: 0 auto;
     width: 70%;
     height: 50%;
+    border-radius: 10%;
 }
 
 .button,
 nav a {
     font-size: 15px;
-    padding: 0.5em;
+    padding: 0.39em;
     font-family: arial;
     color: black;
     border: 4px solid black;
